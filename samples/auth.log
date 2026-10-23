@@ -1,0 +1,17 @@
+Oct 23 08:12:01 srv01 sshd[2101]: Invalid user admin from 203.0.113.45 port 51022
+Oct 23 08:12:03 srv01 sshd[2101]: Failed password for invalid user admin from 203.0.113.45 port 51022 ssh2
+Oct 23 08:12:07 srv01 sshd[2103]: Failed password for invalid user admin from 203.0.113.45 port 51030 ssh2
+Oct 23 08:12:11 srv01 sshd[2105]: Failed password for root from 203.0.113.45 port 51041 ssh2
+Oct 23 08:12:15 srv01 sshd[2107]: Failed password for root from 203.0.113.45 port 51050 ssh2
+Oct 23 08:12:19 srv01 sshd[2109]: Failed password for root from 203.0.113.45 port 51059 ssh2
+Oct 23 08:12:23 srv01 sshd[2111]: Invalid user test from 203.0.113.45 port 51066
+Oct 23 08:12:25 srv01 sshd[2111]: Failed password for invalid user test from 203.0.113.45 port 51066 ssh2
+Oct 23 09:30:44 srv01 sshd[2280]: Failed password for saulius from 192.168.10.25 port 40112 ssh2
+Oct 23 09:30:52 srv01 sshd[2280]: Accepted password for saulius from 192.168.10.25 port 40112 ssh2
+Oct 23 10:02:10 srv01 sshd[2390]: Failed password for backup from 198.51.100.7 port 60001 ssh2
+Oct 23 10:02:14 srv01 sshd[2392]: Failed password for backup from 198.51.100.7 port 60009 ssh2
+Oct 23 10:02:18 srv01 sshd[2394]: Failed password for backup from 198.51.100.7 port 60017 ssh2
+Oct 23 10:02:22 srv01 sshd[2396]: Failed password for backup from 198.51.100.7 port 60025 ssh2
+Oct 23 10:02:30 srv01 sshd[2398]: Accepted password for backup from 198.51.100.7 port 60033 ssh2
+Oct 23 11:45:00 srv01 sshd[2501]: Accepted publickey for deploy from 192.168.10.30 port 42210 ssh2
+Oct 23 11:45:00 srv01 CRON[2502]: pam_unix(cron:session): session opened for user root
